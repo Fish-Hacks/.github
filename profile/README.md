@@ -4,8 +4,8 @@
 <p align="center">Haha funny spinning fish</p>
 
 ## Mindful Hacks Repositories
-- [App](https://github.com/Fish-WTH/Fish)
-- [LLM / API](https://github.com/Fish-WTH/mindful-llm)
+- [iOS App](https://github.com/Fish-WTH/Fish)
+- [LLM & API Services](https://github.com/Fish-WTH/mindful-llm)
 
 
 ## Past Hackathons
