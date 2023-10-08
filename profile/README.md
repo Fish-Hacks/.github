@@ -5,7 +5,7 @@
 
 ## Mindful Hacks Repositories
 Project: <i>Carp</i>
-- [iOS App](https://github.com/Fish-WTH/Fish)
+- [iOS App](https://github.com/Fish-WTH/mindful-Fish)
 - [LLM & API Services](https://github.com/Fish-WTH/mindful-llm)
 
 <p float="left">
