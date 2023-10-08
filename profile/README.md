@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FZHze27YyLIkAAAAC%2Fjoel-spinning.gif&f=1&nofb=1&ipt=52ed7e68af9adb79b8beeb130c657b069939662c79b9a220bfa9992739494452&ipo=images">
+  <img src="https://cdn.discordapp.com/attachments/1137696466299789332/1160421810358190112/IMG-2584-unscreen.gif?ex=65349a07&is=65222507&hm=ce9f9cd8a7bc3f66948788e8cc5627625604797834c72a628587cdb651fc18bf&">
 </p>
-<p align="center">Haha funny spinning fish</p>
+<p align="center">funny spinning fish</p>
 
 ## Mindful Hacks Repositories
 Project: <i>Carp</i>
