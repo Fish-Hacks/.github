@@ -5,6 +5,7 @@
 
 ## Mindful Hacks Repositories
 Project: <i>Carp</i>
+Placement: <i>6/30</i>
 - [iOS App](https://github.com/Fish-WTH/mindful-Fish)
 - [LLM & API Services](https://github.com/Fish-WTH/mindful-llm)
 
@@ -21,6 +22,7 @@ Project: <i>Carp</i>
 <details>
     <summary> <b>What-The-Hack (WTH)</b></summary>
       <p>Project: <i>Cadaver</i></p>
+      <p>Placement: <i>3/xxx</i></p>
       <li><a href="https://github.com/Fish-WTH/Fish">iOS App</a></li>
       <li><a href="https://github.com/Fish-WTH/wth-CV-Service">CV Services + API</a></li>
 </details>
