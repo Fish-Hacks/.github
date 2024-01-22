@@ -5,9 +5,10 @@
 
 ## Highlight
 Project: <i>Cod Captcha</i> </br>
-Placement: <i>5/250</i>
+Placement: <i>Top 8 / 144</i>
 - [MONO REPO](https://github.com/Fish-Hacks/har-codcaptcha) </br>
-- <img src="https://private-user-images.githubusercontent.com/36725840/298317136-f2261d84-4af1-4d46-9bc6-65829e5e8867.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU4MjU3ODksIm5iZiI6MTcwNTgyNTQ4OSwicGF0aCI6Ii8zNjcyNTg0MC8yOTgzMTcxMzYtZjIyNjFkODQtNGFmMS00ZDQ2LTliYzYtNjU4MjllNWU4ODY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIxVDA4MjQ0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlYTBiYjc5ZDg3MGM1ZTE3N2MwMTRkNzk3NTc1NThjYTZlNWZlMjE3ZTVmYTg2ZjdjNTc3MDcwODI3Y2VkMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qG7_7hEErNhB8cW0UVv4SzTFiyamHO0AbnPq_5ZdVIs" />
+- [DEVPOST](https://devpost.com/software/cod-captcha-u701hs) </br>
+- ![image](https://github.com/Fish-Hacks/har-codcaptcha/assets/36725840/f2261d84-4af1-4d46-9bc6-65829e5e8867)
 
 
 
@@ -21,7 +22,7 @@ Placement: <i>5/250</i>
 </details>
 
 <details>
-<summary> <b>What-The-Hack (WTH)</b></summary>
+<summary> <b>Mindful Hacks</b></summary>
   Project: <i>Carp</i>
   Placement: <i>6/30</i>
   - [iOS App](https://github.com/Fish-WTH/mindful-Fish) <br/>
