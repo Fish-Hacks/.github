@@ -24,9 +24,9 @@ Placement: <i>Top 8 / 144</i>
 <details>
 <summary> <b>Mindful Hacks</b></summary>
   Project: <i>Carp</i>
-  Placement: <i>6/30</i>
-  - [iOS App](https://github.com/Fish-WTH/mindful-Fish) <br/>
-  - [LLM & API Services](https://github.com/Fish-WTH/mindful-llm)
+  Placement: <i>6/30</i> <br/>
+  - <a href="https://github.com/Fish-WTH/mindful-Fish">iOS App</a> <br/>
+  - <a href="https://github.com/Fish-WTH/mindful-llm">LLM & API Services</a> <br/>
   
   <p float="left">
     <img src="https://media.discordapp.net/attachments/1137696466299789332/1160412671745728543/IMG_0110.png?ex=65349184&is=65221c84&hm=364bcf033423aca720389d7d982cb5307a3dc333f8051aeaba9393506c454cf6&=&width=222&height=400"/>
